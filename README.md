@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Atleta Link
 
 `CURSO`
 
@@ -17,7 +17,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Michelle Hanne Soares de Andrade
 
 ## Instruções de utilização
 
