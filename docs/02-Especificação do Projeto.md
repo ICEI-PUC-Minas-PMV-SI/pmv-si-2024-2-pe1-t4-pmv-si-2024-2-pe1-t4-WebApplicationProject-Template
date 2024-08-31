@@ -27,14 +27,11 @@ Manutenção da quadra para ter altos padrões, segurança e satisfação dos us
 Abrir o negócio com mais quadras ou até mesmo ter uma academia anexa.
 
 Persona 02
+
 Nome: João Pereira
-
 Idade: 27
-
 Ocupação: Analista de Sistemas
-
 Localização: São Paulo, SP
-
 Histórico:
 João sempre gostou de esportes, principalmente se forem esportes ao ar livre. Jogou futebol na escola, mas nos últimos anos se apaixonou pelo vôlei de praia e futevôlei. Embora tenha um emprego de escritório durante a semana, ele encontra tempo para praticar esportes em equipe com os amigos. Ultimamente, ele tem procurado lugares mais regulares por perto para praticar e competir a pé.
 
