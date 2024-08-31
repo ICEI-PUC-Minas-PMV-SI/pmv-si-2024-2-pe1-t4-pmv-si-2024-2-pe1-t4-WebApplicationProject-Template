@@ -8,9 +8,27 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Nome: Marcos Souza
+Idade: 38
+Ocupação: Proprietário de Quadras de Areia
+Localização: Rio de Janeiro, RJ
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Histórico:
+Marcos começou no mundo dos esportes como jogador amador de futebol de areia. Vendo a crescente demanda por espaços de qualidade em esportes como vôlei de praia, futevôlei e futebol de areia, ele decidiu investir criando sua própria quadra. Com um espírito empreendedor que transformou uma paixão de longa data em lucro — alugando quadras para diferentes jogos e organizando eventos esportivos.
+
+Objetivos:
+
+Trazer mais pessoas para a quadra por meio de parcerias e eventos locais.
+
+Manutenção da quadra para ter altos padrões, segurança e satisfação dos usuários.
+
+Abrir o negócio com mais quadras ou até mesmo ter uma academia anexa.
+
+desafios:
+
+Competir com outras quadras da área e se destacar no mercado.
+
+Gerenciar os horários das quadras criando eficiência sem overbooking ou espaços ociosos.
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
