@@ -8,6 +8,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
+Persona 01
+
 Nome: Marcos Souza
 Idade: 38
 Ocupação: Proprietário de Quadras de Areia
@@ -23,6 +25,33 @@ Trazer mais pessoas para a quadra por meio de parcerias e eventos locais.
 Manutenção da quadra para ter altos padrões, segurança e satisfação dos usuários.
 
 Abrir o negócio com mais quadras ou até mesmo ter uma academia anexa.
+
+Persona 02
+Nome: João Pereira
+
+Idade: 27
+
+Ocupação: Analista de Sistemas
+
+Localização: São Paulo, SP
+
+Histórico:
+João sempre gostou de esportes, principalmente se forem esportes ao ar livre. Jogou futebol na escola, mas nos últimos anos se apaixonou pelo vôlei de praia e futevôlei. Embora tenha um emprego de escritório durante a semana, ele encontra tempo para praticar esportes em equipe com os amigos. Ultimamente, ele tem procurado lugares mais regulares por perto para praticar e competir a pé.
+
+Objetivos:
+
+Encontrar uma quadra de areia de boa qualidade para jogar regularmente.
+
+Fazer amigos e ser social praticando esportes.
+
+Desafios:
+
+Conseguir uma quadra de areia de qualidade com horários flexíveis porque a agenda do homem é pesada de trabalho.
+
+Conciliar esportes e encontrar tempo para obrigações profissionais
+
+Encontrar quadras com boa relação custo-benefício e convenientemente localizadas
+
 
 desafios:
 
