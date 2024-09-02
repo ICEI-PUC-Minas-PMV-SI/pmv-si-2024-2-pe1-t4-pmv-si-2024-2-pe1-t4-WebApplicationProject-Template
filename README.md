@@ -2,7 +2,7 @@
 
 Sistemas de Informação
 
-`DISCIPLINA`
+`Projeto: Aplicações Web`
 
 Eixo 1
 
