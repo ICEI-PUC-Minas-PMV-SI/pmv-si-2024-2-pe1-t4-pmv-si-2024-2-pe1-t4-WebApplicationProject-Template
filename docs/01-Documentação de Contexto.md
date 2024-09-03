@@ -25,9 +25,19 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A criação da aplicação AtletaLink, que conecta atletas a donos de quadras, se justifica por meio de dados consistentes de diversas fontes, incluindo o IBGE, o Ministério da Saúde e análises de mercado recentes. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+De acordo com o IBGE (PNAD) 2015, cerca de 40% dos brasileiros com 15 anos ou mais praticam atividades físicas regularmente, refletindo uma demanda crescente por espaços apropriados para a prática esportiva. Esta demanda é particularmente relevante em áreas urbanas, onde a oferta de quadras e centros esportivos pode não acompanhar o crescimento populacional e o aumento do interesse pela prática de esportes. 
+
+Além disso, o Ministério da Saúde tem promovido ativamente campanhas de incentivo à prática regular de atividades físicas, destacando que a atividade física regular é essencial para a prevenção de doenças crônicas, como hipertensão, diabetes e obesidade. A pesquisa Vigitel Brasil 2021, do Ministério da Saúde, aponta que 49,6% da população adulta brasileira é insuficientemente ativa, o que indica uma necessidade crítica de mais acesso a infraestrutura esportiva para aumentar esses índices de atividade física. 
+
+A AtletaLink se propõe a enfrentar diretamente esses desafios, conectando atletas que buscam locais para se exercitar com donos de quadras que desejam otimizar o uso de suas instalações. Isso não só facilita o acesso a espaços de qualidade, como também apoia os esforços de saúde pública para promover uma população mais ativa e saudável. 
+
+Além disso, a plataforma contribui para o desenvolvimento econômico do setor esportivo, ao criar novas oportunidades de renda para os proprietários de quadras, potencializando o uso de tecnologias modernas e alinhando-se às tendências de digitalização do mercado. 
+
+Fontes pesquisadas: Ministério da Saúde: https://www.gov.br/saude/pt-br/assuntos/noticias/2022/agosto/ministerio-da-saude-lanca-publicacao-sobre-indicadores-de-pratica-de-atividades-fisicas-entre-os-brasileiros; 
+
+IBGE: https://educa.ibge.gov.br/jovens/materias-especiais/19051-pnad-esportes-2015-pratica-de-esportes-e-atividades-fisicas.html; 
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
