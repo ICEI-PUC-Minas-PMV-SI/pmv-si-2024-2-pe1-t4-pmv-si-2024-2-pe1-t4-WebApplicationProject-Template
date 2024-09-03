@@ -75,6 +75,22 @@ Conciliar esportes e encontrar tempo para obrigações profissionais
 
 Encontrar quadras com boa relação custo-benefício e convenientemente localizadas
 
+Nome: Camila Ribeiro
+Idade: 34 anos
+Ocupação: Professora de Educação Infantil
+Localização: Belo Horizonte, MG
+História: Camila descobriu o vôlei de areia durante a pandemia e quer continuar praticando de forma recreativa. Agora, procura uma quadra próxima para jogar aos fins de semana e, ocasionalmente, durante a semana. 
+
+Objetivos:
+
+Ela busca um espaço com boa infraestrutura, horários flexíveis e um ambiente acolhedor. 
+Seus desafios incluem conciliar a prática com sua rotina de trabalho e encontrar uma quadra disponível em horários convenientes.
+
+Desafios:
+
+Quadras lotadas nos horários desejados.
+Clima imprevisível interrompendo os treinos.
+
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
