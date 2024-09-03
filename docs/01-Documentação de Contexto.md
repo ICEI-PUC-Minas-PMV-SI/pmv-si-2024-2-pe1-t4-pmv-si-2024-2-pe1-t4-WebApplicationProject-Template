@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O AtletaLink é um software inovador que visa conectar pessoas com interesses em atividades esportivas semelhantes, superando obstáculos como horários, locais e lotação. Sua missão é tornar a prática esportiva mais acessível a todos. O público-alvo abrange desde atletas amadores e profissionais até entusiastas de esportes, bem como os proprietários de quadras esportivas em busca de uma gestão mais eficiente do atendimento e serviços oferecidos. 
 
 ## Problema
 Reunir pessoas com interesses em atividades esportivas em comum e disponíveis para praticá-las em locais e horários definidos nem sempre é simples.  
