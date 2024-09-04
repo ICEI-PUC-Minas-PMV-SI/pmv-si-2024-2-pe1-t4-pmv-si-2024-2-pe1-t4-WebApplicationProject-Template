@@ -40,29 +40,7 @@ Persona 3
 
 Enzo Henrique, 25 anos, é técnico em administração e, desde que seu pai precisou dedicar mais atenção à própria saúde devido à idade avançada, assumiu a gestão da quadra de futebol e da quadra de areia de propriedade de seu pai, localizada em Contagem/MG. Enzo sempre colaborou com o negócio, porém, agora que conduz a atividade integralmente, pretende implementar melhorias nos sistemas de gestão das quadras. Enzo se deparou com uma metodologia de gestão antiga e obsoleta de modo que concluiu ser necessário ampliar a divulgação do espaço bem como gerir o atendimento de forma mais automatizada e eficiente.  
 
- 
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
-## Histórias de Usuários
-
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Usuário 1
-
+Persona 4 
 Nome: João Pereira
 Idade: 27
 Ocupação: Analista de Sistemas
@@ -84,7 +62,7 @@ Conciliar esportes e encontrar tempo para obrigações profissionais
 
 Encontrar quadras com boa relação custo-benefício e convenientemente localizadas
 
-Usuário 2
+Persona 5 
 
 Nome: Camila Ribeiro
 Idade: 34 anos
@@ -103,12 +81,25 @@ Quadras lotadas nos horários desejados.
 Clima imprevisível interrompendo os treinos.
 
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+
+ 
+
+## Histórias de Usuários
+
+Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+
+|EU COMO             | QUERO/PRECISO                      |PARA              
+|--------------------|------------------------------------|----------------------------------------|
+| Marcos Souza       |                                    |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+| Mariana Costa      |                                    |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+| Enzo Henrique      |                                    |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+| João Pereira       |                                    |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+| Camila Ribeiro     |                                    |                                        |
+
 
 ## Requisitos
 
