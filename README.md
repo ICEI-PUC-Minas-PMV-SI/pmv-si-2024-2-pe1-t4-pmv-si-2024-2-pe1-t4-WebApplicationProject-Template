@@ -1,10 +1,10 @@
 # Atleta Link
 
-'Sistemas de Informação'
+Sistemas de Informação
 
-'Projeto: Aplicações Web'
+Projeto: Aplicações Web
 
-'Eixo 1'
+Eixo 1
 
 AtletaLink é um software inovador que visa conectar pessoas com interesses em atividades esportivas semelhantes, superando obstáculos e tornar a prática esportiva mais acessível a todos. O público-alvo abrange desde atletas amadores e profissionais até entusiastas de esportes, bem como os proprietários de quadras esportivas em busca de uma gestão mais eficiente do atendimento e serviços oferecidos. 
 
