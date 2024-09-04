@@ -39,7 +39,7 @@ IBGE: https://educa.ibge.gov.br/jovens/materias-especiais/19051-pnad-esportes-20
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
-## Público-Alvo/
+## Público-Alvo
 
 O público-alvo da plataforma AtletaLink consiste em atletas, leia-se: atletas amadores, profissionais, de final de semana, isto é, esportistas e entusiastas em geral de atividades esportivas coletivas buscando continuar praticando as atividades já conhecidas ou que queiram se aventurar em novas modalidades e, claro, os proprietários de quadras esportivas buscando gerir melhor o atendimento e serviço oferecido.
 
