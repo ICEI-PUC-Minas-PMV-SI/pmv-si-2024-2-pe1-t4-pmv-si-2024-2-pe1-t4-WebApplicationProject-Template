@@ -5,7 +5,7 @@ O AtletaLink é um software inovador que visa conectar pessoas com interesses em
 ## Problema
 Reunir pessoas com interesses em atividades esportivas em comum e disponíveis para praticá-las em locais e horários definidos nem sempre é simples.  
 
-Os empecilhos residem na dificuldade de, primeiramente, identificar uma quantidade suficiente de esportistas interessados, em segundo lugar, de localizar locais apropriados para a prática e, finalmente, de conjugar os horários de todos os interessados com os horários disponíveis nas quadras esportivas que atendam à modalidade praticada pelo grupo. 
+Os empecilhos residem na dificuldade de, primeiramente, identificar quantidades suficientes de esportistas interessados, em segundo lugar, de localizar locais apropriados para a prática esportiva, finalmente, de conjugar os horários de todos os interessados com os horários disponíveis nas quadras esportivas que atendam à modalidade praticada pelo grupo. 
 
 ## Objetivos
 
