@@ -2,91 +2,28 @@
 
 ## Personas
 
-Persona 01
+**Camila Ribeiro** <p align="justify">Tem 34 anos, é professora de educação infantil em uma escola em Belo Horizonte/MG. Após a pandemia descobriu o vôlei de areia no qual começou a jogar esporadicamente, entretanto, a quadra fechou e ela gostaria continuar praticando de forma recreativa. Agora, procura uma quadra próxima para jogar aos fins de semana e, ocasionalmente, durante a semana com as colegas de trabalho. Ela busca um espaço com boa infraestrutura, horários flexíveis e um ambiente acolhedor.Seus desafios incluem conciliar a prática com sua rotina de trabalho e encontrar uma quadra disponível em horários convenientes.
 
-Nome: Marcos Souza
-Idade: 38
-Ocupação: Proprietário de Quadras de Areia
-Localização: Rio de Janeiro, RJ
+**Mariana Costa**<p align="justify">Tem 42 anos, é proprietária e gerente de uma quadra esportiva em São Paulo. Ex-atleta, Mariana transformou sua paixão pelos esportes em um negócio próspero, oferecendo um espaço seguro e de qualidade para práticas esportivas como futebol, basquete e vôlei. Casada e com formação superior em Administração de Empresas, ela busca constantemente inovações para melhorar seu empreendimento e aumentar sua visibilidade através de marketing digital e parcerias locais. Mariana enfrenta desafios como a forte concorrência e a manutenção da qualidade de sua quadra com um orçamento limitado. Ela valoriza a saúde e o bem-estar através do esporte e está comprometida em oferecer um atendimento excelente, tornando-se uma referência na comunidade local, com isso, busca uma solução eficiente para gerenciar a agenda da quadra e promover ofertas especiais e eventos. Ela é familiar com ferramentas básicas de gestão e redes sociais e procura visibilidade e facilidade na gestão de reservas, com interesse em funcionalidades que ajudem a maximizar a receita e promover sua quadra. 
 
-Histórico:
-Marcos começou no mundo dos esportes como jogador amador de futebol de areia. Vendo a crescente demanda por espaços de qualidade em esportes como vôlei de praia, futevôlei e futebol de areia, ele decidiu investir criando sua própria quadra. Com um espírito empreendedor que transformou uma paixão de longa data em lucro — alugando quadras para diferentes jogos e organizando eventos esportivos.
 
-Objetivos:
+**João Silva**<p align="justify">Tem 27 anos, é formado em Análise e Desolvimento de Sistemas e sempre gostou de praticar esportes, principalmente se forem esportes ao ar livre. Jogou futebol na escola, mas nos últimos anos se apaixonou pelo vôlei de praia e futevôlei. Durante a semana ele trabalha em um escritório e atualmente enfrenta dificuldades em localizar quadras disponíveis e prefere uma reserva rápida e sem complicações. João valoriza uma interface intuitiva e funcionalidades que economizem tempo, esperando suporte e feedback rápidos sobre suas reservas. Funcionalidades desejadas incluem filtros de busca por horário e localização e notificações em tempo real sobre a disponibilidade da quadra.
 
-Trazer mais pessoas para a quadra por meio de parcerias e eventos locais.
-
-Manutenção da quadra para ter altos padrões, segurança e satisfação dos usuários.
-
-Abrir o negócio com mais quadras ou até mesmo ter uma academia anexa.
-
-Persona 2
-
-Dona de Quadra: Mariana Costa tem 42 anos, é proprietária e gerente de uma quadra esportiva em São Paulo. Ex-atleta, Mariana transformou sua paixão pelos esportes em um negócio próspero, oferecendo um espaço seguro e de qualidade para práticas esportivas como futebol, basquete e vôlei. Casada e com formação superior em Administração de Empresas, ela busca constantemente inovações para melhorar seu empreendimento e aumentar sua visibilidade através de marketing digital e parcerias locais. Mariana enfrenta desafios como a forte concorrência e a manutenção da qualidade de sua quadra com um orçamento limitado. Ela valoriza a saúde e o bem-estar através do esporte e está comprometida em oferecer um atendimento excelente, tornando-se uma referência na comunidade local. 
-
-desafios:
-
-Competir com outras quadras da área e se destacar no mercado.
-
-Gerenciar os horários das quadras criando eficiência sem overbooking ou espaços ociosos.
-
-Persona 3 
-
-Enzo Henrique, 25 anos, é técnico em administração e, desde que seu pai precisou dedicar mais atenção à própria saúde devido à idade avançada, assumiu a gestão da quadra de futebol e da quadra de areia de propriedade de seu pai, localizada em Contagem/MG. Enzo sempre colaborou com o negócio, porém, agora que conduz a atividade integralmente, pretende implementar melhorias nos sistemas de gestão das quadras. Enzo se deparou com uma metodologia de gestão antiga e obsoleta de modo que concluiu ser necessário ampliar a divulgação do espaço bem como gerir o atendimento de forma mais automatizada e eficiente.  
-
-Persona 4 
-Nome: João Pereira
-Idade: 27
-Ocupação: Analista de Sistemas
-Localização: São Paulo, SP
-Histórico:
-João sempre gostou de esportes, principalmente se forem esportes ao ar livre. Jogou futebol na escola, mas nos últimos anos se apaixonou pelo vôlei de praia e futevôlei. Embora tenha um emprego de escritório durante a semana, ele encontra tempo para praticar esportes em equipe com os amigos. Ultimamente, ele tem procurado lugares mais regulares por perto para praticar e competir a pé.
-
-Objetivos:
-
-Encontrar uma quadra de areia de boa qualidade para jogar regularmente.
-
-Fazer amigos e ser social praticando esportes.
-
-Desafios:
-
-Conseguir uma quadra de areia de qualidade com horários flexíveis porque a agenda do homem é pesada de trabalho.
-
-Conciliar esportes e encontrar tempo para obrigações profissionais
-
-Encontrar quadras com boa relação custo-benefício e convenientemente localizadas
-
-Persona 5 
-
-Nome: Camila Ribeiro
-Idade: 34 anos
-Ocupação: Professora de Educação Infantil
-Localização: Belo Horizonte, MG
-História: Camila descobriu o vôlei de areia durante a pandemia e quer continuar praticando de forma recreativa. Agora, procura uma quadra próxima para jogar aos fins de semana e, ocasionalmente, durante a semana. 
-
-Objetivos:
-
-Ela busca um espaço com boa infraestrutura, horários flexíveis e um ambiente acolhedor. 
-Seus desafios incluem conciliar a prática com sua rotina de trabalho e encontrar uma quadra disponível em horários convenientes.
-
-Desafios:
-
-Quadras lotadas nos horários desejados.
-Clima imprevisível interrompendo os treinos.
+**Enzo Henrique**<p align="justify">Tem 25 anos, é técnico em administração e, desde que seu pai precisou dedicar mais atenção à própria saúde devido à idade avançada, assumiu a gestão da quadra de futebol e da quadra de areia de propriedade de seu pai, localizada em Contagem/MG. Enzo sempre colaborou com o negócio, porém, agora que conduz a atividade integralmente, pretende implementar melhorias nos sistemas de gestão das quadras. Enzo se deparou com uma metodologia de gestão antiga e obsoleta de modo que concluiu ser necessário ampliar a divulgação do espaço bem como gerir o atendimento de forma mais automatizada e eficiente através de uma ferramente que permita também ampliar sua clientela.</p>
 
 
 
 ## Histórias de Usuários
 
-|EU COMO             | QUERO/PRECISO                      |PARA              
-|--------------------|------------------------------------|----------------------------------------|
-| Camila Ribeiro | Criar um perfil  em plataforma de atividades físicas coletivas | Encontrar mulheres interessadas em jogar vôlei 
-| Camila Ribeiro | Fazer login com suas informações de cadastro | Selecionar a quadra e o horário para a partida de vôlei
-| Mariana Costa | Utilizar uma ferramenta de divulgação e cadastro |Aumentar a visibilidade da minha quadra e atrair mais clientes
-| Mariana Costa | Realizar a gestão de reservas dos horários da quadra| Otimizar a rotina interna de gerenciamento 
-|João Silva | Acessar uma funcionalidade que permita a busca de quadras esportivas por localidade | Encontrar locais próximos e viáveis para praticar tênis ou futebol
-| João Silva | Agendar uma partida de futebol | Praticar com os amigos 
-| Enzo Henrique | Utilizar uma aplicação de gestão automatizada | Atualizar a modernizar a metodologia de gestão de reservas da sua quadra
+|EU COMO               | QUERO/PRECISO                        |PARA              
+|--------------------------|----------------------------------------|--------------------------------------------|
+| Camila Ribeiro, esportista nas horas vagas | Criar um perfil  em plataforma de atividades físicas coletivas | Encontrar mulheres interessadas em jogar vôlei 
+| Camila Ribeiro, esportista nas horas vagas | Fazer login com suas informações de cadastro | Selecionar a quadra e o horário para a partida de vôlei
+| Mariana Costa, proprietária de quadra esportiva| Utilizar uma ferramenta de divulgação e cadastro |Aumentar a visibilidade da minha quadra e atrair mais clientes
+| Mariana Costa, proprietária de quadra esportiva | Realizar a gestão de reservas dos horários da quadra| Otimizar a rotina de gerenciamento interna e simplificar o método de reservas para os usuários  
+|João Silva, atleta de finais de semana | Acessar uma funcionalidade que permita a busca de quadras esportivas por localidade | Encontrar locais próximos e viáveis para praticar tênis ou futebol
+| João Silva, atleta de finais de semana | Agendar uma partida de futebol | Praticar com os amigos 
+| Enzo Henrique, gestor de quadra esportiva | Utilizar uma aplicação de gestão automatizada | Atualizar a modernizar a metodologia de gestão de reservas da sua quadra  </p>
 
 
 
