@@ -53,10 +53,13 @@
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O aplicativo deve ser compatível com as principais plataformas e dispositivos | ALTA | 
-|RNF-002| O aplicativo deve ter uma interface amigável e intuitiva |  MÉDIA | 
-|RNF-003| O sistema deve ser capaz de processar até 1000 requisições simultâneas sem comprometer a perfomance |  ALTA |
-|RNF-004| O sistema deve ter uma disponibilidade mínima de 99,9% ao longo do ano |  ALTA |
-|RNF-005| O aplicativo deve ser regido pela LGPD |  ALTA | 
+|RNF-002| A interface do usuário deve seguir as diretrizes de design (Material Design para Android e Human Interface Guidelines para iOS), garantindo uma experiência de usuário consistente e fácil de navegar | MÉDIA | 
+|RNF-003| O sistema deve ser capaz de processar até 1000 requisições simultâneas sem comprometer a perfomance | ALTA |
+|RNF-004| O sistema deve ter uma disponibilidade mínima de 99,9% ao longo do ano | ALTA |
+|RNF-005| O sistema deve ser capaz de se recuperar automaticamente de falhas menores (como desconexões de rede temporárias) sem perda de dados ou impacto negativo na experiência do usuário | ALTA |
+|RNF-006| O aplicativo deve ser otimizado para consumir no máximo 5% da bateria de um dispositivo móvel em uma hora de uso contínuo | BAIXA |
+|RNF-007| O sistema deve utilizar um JSON Web Server como base de dados para armazenar e recuperar informações de forma rápida e eficiente | ALTA |
+|RNF-008| O aplicativo deve garantir a proteção de dados pessoais e financeiros dos usuários, seguindo as melhores práticas de segurança e em conformidade com a LGPD | ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
