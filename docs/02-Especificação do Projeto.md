@@ -2,13 +2,41 @@
 
 ## Personas
 
-**Camila Ribeiro** <p align="justify">Tem 34 anos, é professora de educação infantil em uma escola em Belo Horizonte/MG. Após a pandemia descobriu o vôlei de areia no qual começou a jogar esporadicamente, entretanto, a quadra fechou e ela gostaria continuar praticando de forma recreativa. Agora, procura uma quadra próxima para jogar aos fins de semana e, ocasionalmente, durante a semana com as colegas de trabalho. Ela busca um espaço com boa infraestrutura, horários flexíveis e um ambiente acolhedor.Seus desafios incluem conciliar a prática com sua rotina de trabalho e encontrar uma quadra disponível em horários convenientes.
+<br>
 
-**Mariana Costa**<p align="justify">Tem 42 anos, é proprietária e gerente de uma quadra esportiva em São Paulo. Ex-atleta, Mariana transformou sua paixão pelos esportes em um negócio próspero, oferecendo um espaço seguro e de qualidade para práticas esportivas como futebol, basquete e vôlei. Casada e com formação superior em Administração de Empresas, ela busca constantemente inovações para melhorar seu empreendimento e aumentar sua visibilidade através de marketing digital e parcerias locais. Mariana enfrenta desafios como a forte concorrência e a manutenção da qualidade de sua quadra com um orçamento limitado. Ela valoriza a saúde e o bem-estar através do esporte e está comprometida em oferecer um atendimento excelente, tornando-se uma referência na comunidade local, com isso, busca uma solução eficiente para gerenciar a agenda da quadra e promover ofertas especiais e eventos. Ela é familiar com ferramentas básicas de gestão e redes sociais e procura visibilidade e facilidade na gestão de reservas, com interesse em funcionalidades que ajudem a maximizar a receita e promover sua quadra. 
+<img align="left" width="256" src="https://github.com/user-attachments/assets/f5ef1600-7ed9-472c-91a7-1ea126fcbb36" />
 
-**João Silva**<p align="justify">Tem 27 anos, é formado em Análise e Desolvimento de Sistemas e sempre gostou de praticar esportes, principalmente se forem esportes ao ar livre. Jogou futebol na escola, mas nos últimos anos se apaixonou pelo vôlei de praia e futevôlei. Durante a semana ele trabalha em um escritório e atualmente enfrenta dificuldades em localizar quadras disponíveis e prefere uma reserva rápida e sem complicações. João valoriza uma interface intuitiva e funcionalidades que economizem tempo, esperando suporte e feedback rápidos sobre suas reservas. Funcionalidades desejadas incluem filtros de busca por horário e localização e notificações em tempo real sobre a disponibilidade da quadra.
+### Camila Ribeiro, 34 anos
 
-**Enzo Henrique**<p align="justify">Tem 25 anos, é técnico em administração e, desde que seu pai precisou dedicar mais atenção à própria saúde devido à idade avançada, assumiu a gestão da quadra de futebol e da quadra de areia de propriedade de seu pai, localizada em Contagem/MG. Enzo sempre colaborou com o negócio, porém, agora que conduz a atividade integralmente, pretende implementar melhorias nos sistemas de gestão das quadras. Enzo se deparou com uma metodologia de gestão antiga e obsoleta de modo que concluiu ser necessário ampliar a divulgação do espaço bem como gerir o atendimento de forma mais automatizada e eficiente através de uma ferramente que permita também ampliar sua clientela.</p>
+Camila Ribeiro é professora de educação infantil em uma escola em Belo Horizonte/MG. Após a pandemia descobriu o vôlei de areia no qual começou a jogar esporadicamente, entretanto, a quadra fechou e ela gostaria continuar praticando de forma recreativa. Agora, procura uma quadra próxima para jogar aos fins de semana e, ocasionalmente, durante a semana com as colegas de trabalho. Ela busca um espaço com boa infraestrutura, horários flexíveis e um ambiente acolhedor. Seus desafios incluem conciliar a prática com sua rotina de trabalho e encontrar uma quadra disponível em horários convenientes.
+
+<br clear="left">
+<br>
+ 
+<img align="left" width="256" src="https://github.com/user-attachments/assets/732739a8-bf1b-475f-b796-924f013f528f" />
+
+### Mariana Costa, 42 anos
+
+Mariana Costa é proprietária e gerente de uma quadra esportiva em São Paulo. Ex-atleta, Mariana transformou sua paixão pelos esportes em um negócio próspero, oferecendo um espaço seguro e de qualidade para práticas esportivas como futebol, basquete e vôlei. Casada e com formação superior em Administração de Empresas, ela busca constantemente inovações para melhorar seu empreendimento e aumentar sua visibilidade através de marketing digital e parcerias locais. Mariana enfrenta desafios como a forte concorrência e a manutenção da qualidade de sua quadra com um orçamento limitado. Ela valoriza a saúde e o bem-estar através do esporte e está comprometida em oferecer um atendimento excelente, tornando-se uma referência na comunidade local, com isso, busca uma solução eficiente para gerenciar a agenda da quadra e promover ofertas especiais e eventos. Ela é familiar com ferramentas básicas de gestão e redes sociais e procura visibilidade e facilidade na gestão de reservas, com interesse em funcionalidades que ajudem a maximizar a receita e promover sua quadra.
+
+
+<br clear="left">
+<br>
+
+<img align="left" width="256" src="https://github.com/user-attachments/assets/f772d5d4-c80e-42a5-9e17-5e3f2a4c52d9" />
+
+### João Silva, 27 anos
+
+João Silva é formado em Análise e Desenvolvimento de Sistemas e sempre gostou de praticar esportes, principalmente se forem esportes ao ar livre. Jogou futebol na escola, mas nos últimos anos se apaixonou pelo vôlei de praia e futevôlei. Durante a semana ele trabalha em um escritório e atualmente enfrenta dificuldades em localizar quadras disponíveis e prefere uma reserva rápida e sem complicações. João valoriza uma interface intuitiva e funcionalidades que economizem tempo, esperando suporte e feedback rápidos sobre suas reservas. Funcionalidades desejadas incluem filtros de busca por horário e localização e notificações em tempo real sobre a disponibilidade da quadra.
+
+<br clear="left">
+
+
+<img align="left" width="256" src="https://github.com/user-attachments/assets/7d34d761-2eb1-4c3a-a321-4111d4da7855" />
+
+### Enzo Henrique, 25 anos
+
+Enzo Henrique é técnico em administração e, desde que seu pai precisou dedicar mais atenção à própria saúde devido à idade avançada, assumiu a gestão da quadra de futebol e da quadra de areia de propriedade de seu pai, localizada em Contagem/MG. Enzo sempre colaborou com o negócio, porém, agora que conduz a atividade integralmente, pretende implementar melhorias nos sistemas de gestão das quadras. Enzo se deparou com uma metodologia de gestão antiga e obsoleta de modo que concluiu ser necessário ampliar a divulgação do espaço bem como gerir o atendimento de forma mais automatizada e eficiente através de uma ferramenta que permita também ampliar sua clientela.
 
 
 
