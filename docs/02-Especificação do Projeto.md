@@ -32,7 +32,7 @@ João Silva é formado em Análise e Desenvolvimento de Sistemas e sempre gostou
 <br clear="left">
 
 
-<img align="left" width="256" src="https://github.com/user-attachments/assets/7d34d761-2eb1-4c3a-a321-4111d4da7855" />
+<img align="left" width="256" src="https://github.com/user-attachments/assets/492b5646-ad39-47d8-94a8-165d2ffadc8e" />
 
 ### Enzo Henrique, 25 anos
 
