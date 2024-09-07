@@ -55,7 +55,8 @@
 |RNF-001| O aplicativo deve ser compatível com as principais plataformas e dispositivos | ALTA | 
 |RNF-002| O aplicativo deve ter uma interface amigável e intuitiva |  MÉDIA | 
 |RNF-003| O sistema deve ser capaz de processar até 1000 requisições simultâneas sem comprometer a perfomance |  ALTA |
-|RNF-004| O sistema deve ter uma disponibilidade mínima de 99,9% ao longo do ano |  ALTA | 
+|RNF-004| O sistema deve ter uma disponibilidade mínima de 99,9% ao longo do ano |  ALTA |
+|RNF-005| O aplicativo deve ser regido pela LGPD |  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
