@@ -39,7 +39,6 @@ João Silva é formado em Análise e Desenvolvimento de Sistemas e sempre gostou
 Enzo Henrique é técnico em administração e, desde que seu pai precisou dedicar mais atenção à própria saúde devido à idade avançada, assumiu a gestão da quadra de futebol e da quadra de areia de propriedade de seu pai, localizada em Contagem/MG. Enzo sempre colaborou com o negócio, porém, agora que conduz a atividade integralmente, pretende implementar melhorias nos sistemas de gestão das quadras. Enzo se deparou com uma metodologia de gestão antiga e obsoleta de modo que concluiu ser necessário ampliar a divulgação do espaço bem como gerir o atendimento de forma mais automatizada e eficiente através de uma ferramenta que permita também ampliar sua clientela.
 
 
-<br>
 
 
 
