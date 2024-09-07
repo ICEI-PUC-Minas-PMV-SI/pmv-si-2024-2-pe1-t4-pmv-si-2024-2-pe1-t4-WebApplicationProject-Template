@@ -30,14 +30,22 @@
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID       | Descrição do Requisito  | Prioridade |
+|-------|-------------------------|----|
+|RF-001| Permitir que o usuário esportista faça cadastro | ALTA | 
+|RF-002| Permitir que o usuário gestor de quadra faça cadastro  | ALTA |
+|RF-003| Permitir que os usuários (esportistas e donos de quadra) façam login | ALTA |
+|RF-004| Permitir que o usuário esportista use ferramentas de busca para encontrar quadras disponíveis por modalidade | ALTA |
+|RF-005| Permitir a interação entre usuários para, havendo interesse, formarem novo gruṕo ou de grupo existente| ALTA |
+|RF-006| Permitir que o usuário esportista faça agendamento de horário | ALTA |
+|RF-007| Permitir que o usuário esportista forneça feedback sobre a experiência com a quadra | MÉDIA |
+|RF-008| Permitir que o usuário gestor de quadra disponibilIze agenda de horários para reseva | ALTA |
+|RF-009| Permitir que o usuário gestor de quadra divulgue informações sobre a quadra e divulgue eventos | ALTA |
+|RF-010| Permitir que o usuário gestor de quadra confirme as reservas | ALTA |
+|RF-011| A plataforma gerará relatórios para o uso dos gestores de quadra | MÉDIA|
 
 
 ### Requisitos não Funcionais
