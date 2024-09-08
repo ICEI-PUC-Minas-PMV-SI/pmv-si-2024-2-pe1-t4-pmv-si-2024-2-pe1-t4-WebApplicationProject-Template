@@ -4,14 +4,16 @@
 ## Introdução
 
 <p align="justify">O A prática de atividades físicas é fundamental para a promoção da saúde e bem-estar, desempenhando um papel crucial na prevenção de inúmeras doenças e na promoção da qualidade de vida.   
-
-<p align="justify">No entanto, o sedentarismo ainda é um desafio significativo em todo o mundo. Segundo dados da Organização Mundial da Saúde (OMS), cerca de 1 em cada 4 adultos não atinge os níveis mínimos recomendados de atividade física. Este comportamento está associado ao aumento de doenças relacionadas ao estilo de vida, como a obesidade e complicações cardíacas, além de ser uma das principais causas de mortalidade global **[1]**.
+  
+<p align="justify">No entanto, a superação do sedentarismo ainda é um desafio significativo. Segundo dados da Organização Mundial da Saúde (OMS), cerca de 1 em cada 4 adultos não atinge os níveis mínimos recomendados de atividade física. Este comportamento está associado ao aumento de doenças relacionadas ao estilo de vida, como a obesidade e complicações cardíacas, além de ser uma das principais causas de mortalidade global ¹ .
 
 <p align="justify">Nesse contexto, a conscientização sobre os benefícios da atividade física e a criação de ambientes e ferramentas que facilitem o acesso à prática esportiva se tornam essenciais para enfrentar o sedentarismo e promover hábitos mais saudáveis na sociedade.  
 
 <p align="justify">Dessa forma, a criação de um aplicativo para conectar gestores de quadras esportivas com esportistas em geral surge como uma solução inovadora para atender à demanda por uma gestão eficiente e acessível de espaços esportivos, fomentando a prática de atividades coletivas e está em consonância com a necessidade de incentivar a adesão da população a hábitos mais saudáveis.  
 
-<p align="justify"> [1] OMS (Organização Mundial da Saúde). Relatório global de atividade física insuficiente: 1 em cada 4 adultos não realiza atividade física suficiente. Genebra: OMS, 2018. Disponível em: https://www.who.int/news-room/fact-sheets/detail/physical-activity. Acesso em: 06/09/2024. </p>
+<p align="justify"> Notas:
+  
+[1] OMS (Organização Mundial da Saúde). Relatório global de atividade física insuficiente: 1 em cada 4 adultos não realiza atividade física suficiente. Genebra: OMS, 2018. Disponível em: https://www.who.int/news-room/fact-sheets/detail/physical-activity. Acesso em: 06/09/2024. </p>
 
 ## Problema
 
