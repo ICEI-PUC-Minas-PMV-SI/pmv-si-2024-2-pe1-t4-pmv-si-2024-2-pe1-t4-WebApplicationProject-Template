@@ -72,12 +72,12 @@ Enzo Henrique é técnico em administração e, desde que seu pai precisou dedic
 |RF-002| Permitir que o usuário gestor de quadra faça cadastro  | ALTA |
 |RF-003| Permitir que os usuários (esportistas e donos de quadra) façam login | ALTA |
 |RF-004| Permitir que o usuário esportista use ferramentas de busca para encontrar quadras disponíveis por modalidade | ALTA |
-|RF-005| Permitir a interação entre usuários para, havendo interesse, formarem novo gruṕo ou de grupo existente| ALTA |
+|RF-005| Permitir a interação entre usuários através de Fórum | MÉDIA |
 |RF-006| Permitir que o usuário esportista faça agendamento de horário | ALTA |
 |RF-007| Permitir que o usuário esportista forneça feedback sobre a experiência com a quadra | MÉDIA |
-|RF-008| Permitir que o usuário gestor de quadra disponibilIze agenda de horários para reseva | ALTA |
-|RF-009| Permitir que o usuário gestor de quadra divulgue informações sobre a quadra e divulgue eventos | ALTA |
-|RF-010| Permitir que o usuário gestor de quadra confirme as reservas | ALTA |
+|RF-008| Permitir que o usuário gestor de quadra disponibilize agenda de horários para reseva | ALTA |
+|RF-009| Permitir que o usuário gestor de quadra divulgue informações sobre a quadra e divulgue eventos | MÉDIA |
+|RF-010| Permitir que o usuário gestor de quadra confirme as reservas | MÉDIA| 
 |RF-011| A plataforma gerará relatórios para o uso dos gestores de quadra | MÉDIA|
 
 
