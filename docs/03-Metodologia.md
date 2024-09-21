@@ -1,9 +1,11 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+A metodologia adotada pela equipe para desenvolvimento da solução será implementada através do método Scrum, isto é, através da definição de metas individuais e gerais, com periodicidade semanal de monitoramento e revisão do plano de execução. 
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+O objetivo é garantir uma abordagem incremental, intuitiva, colaborativa e facilitando o progresso contínuo, observando as adaptações necessárias para garantir a eficiência e constante evolução do projeto dentro do cronograma. 
+
+Os ambientes de trabalho e para estruturação e gestão do código fonte essenciais para a execução incluem principalmente o Git, além disso, para viabilizar a interação e colaboração, utiliza-se plataformas de comunicação instantânea, principalmente Microsoft Teams e Whatsapp. 
 
 ## Controle de Versão
 
