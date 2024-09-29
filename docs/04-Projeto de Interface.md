@@ -93,6 +93,22 @@ DOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERI
 
 ![tela de avaliação 2024-09-29 132644](https://github.com/user-attachments/assets/2b9d00d9-8cf7-415c-b789-437e7ea2209f)
 
+#### 13. CHIMICHURRI
 
+DOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERI
+
+![tela de chat com o gestor 2024-09-29 134903](https://github.com/user-attachments/assets/2cee4c88-2d6b-42db-be25-aa199e468d93)
+
+#### 14. CHIMICHURRI
+
+DOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERI
+
+![agenda do usuario 2024-09-29 135108](https://github.com/user-attachments/assets/284afbab-580f-4677-b7b0-7b0f4eeb638e)
+
+#### 15. CHIMICHURRI
+
+DOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERI
+
+![home do usario com pop up da config 2024-09-29 135426](https://github.com/user-attachments/assets/9520529a-16b3-496a-8736-d13ca4e9518b)
 
 
