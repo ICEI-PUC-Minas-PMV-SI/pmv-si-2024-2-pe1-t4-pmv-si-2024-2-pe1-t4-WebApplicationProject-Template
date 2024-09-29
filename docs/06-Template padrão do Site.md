@@ -29,3 +29,15 @@ ________________________________________________________________________________
 
 
 
+## Cores
+Paleta de cores utilizadas
+![paleta de cores Image 2024-09-29 at 15 38 40](https://github.com/user-attachments/assets/b7da04bd-b5aa-449b-95ce-d7147637d6f4)
+
+__________________________________________________________________________________________________________________________________________________
+
+
+## Iconografia
+
+Ícones usados
+
+![icones Image 2024-09-29 at 12 57 02](https://github.com/user-attachments/assets/560311d1-40e9-4bf1-bef0-cb59e4c2f321)
