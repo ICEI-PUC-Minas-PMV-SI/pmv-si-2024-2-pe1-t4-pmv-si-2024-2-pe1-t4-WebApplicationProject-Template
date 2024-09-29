@@ -9,7 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-O projeto de interface destaca as páginas e derivações das páginas da plataforma no qual as principais informações estão exibidas na página principal. Após a realização de cadastrado, como usuário esportista ou como gestor de quadra são disponibilizadas as funcionalidades específicas da plataforma, isto é, agendado, confirmação e feedback da experiência, conforme o usuário.
+O projeto de interface destaca as páginas e derivações das páginas da plataforma no qual as principais informações estão exibidas na página principal. Após a realização de cadastrado, como usuário esportista ou como gestor de quadra são disponibilizadas as funcionalidades específicas da plataforma, isto é, agendamento, confirmação e feedback da experiência, conforme o usuário.
 
 ![USERFLOW (3)](https://github.com/user-attachments/assets/f087650a-26a6-469c-9ed2-e4b6bd6040d6)
 
