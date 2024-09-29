@@ -27,3 +27,6 @@ Oferecer uma visão geral das principais funcionalidades disponíveis para o usu
 
 ![Tela principal 2024-09-29 at 11 01 28](https://github.com/user-attachments/assets/09a76831-c4eb-4c28-9317-f6b51325cad7)
 
+#### 2. CHIMICHURRI
+
+![Tela usuário sem conta](https://github.com/user-attachments/assets/a40c3aa6-bd20-417a-84f7-3a4b5de85208)
