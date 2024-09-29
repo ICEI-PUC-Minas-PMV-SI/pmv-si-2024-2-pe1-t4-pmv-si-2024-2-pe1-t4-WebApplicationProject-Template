@@ -29,4 +29,7 @@ Oferecer uma visão geral das principais funcionalidades disponíveis para o usu
 
 #### 2. CHIMICHURRI
 
-![Tela usuário sem conta](https://github.com/user-attachments/assets/a40c3aa6-bd20-417a-84f7-3a4b5de85208)
+DOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERI
+
+![tela do user sem login](https://github.com/user-attachments/assets/48a104e5-5ab9-4f6a-9d1d-7e669594c8e8)
+
