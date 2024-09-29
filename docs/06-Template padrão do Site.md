@@ -1,6 +1,6 @@
 # Template padrão do site
 
-hahaahahahahahahahahhahahhhahahahahah
+Descrição das características gráficas da plataforma
 
 ## Design
 
@@ -20,7 +20,7 @@ Rodapé do site
 ![rodape 2024-09-29 153024](https://github.com/user-attachments/assets/2a0f1416-c8e6-4a0d-80d1-8b8c5887e657)
 
 ### Home
-Página inicial
+Página inicial da plataforma
 
 ![tela inicial 2024-09-29 at 11 01 28](https://github.com/user-attachments/assets/a7726591-8ee0-41c1-bc3a-28fa2f79dfc8)
 
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 
 ## Cores
-Paleta de cores utilizadas
+Paleta de cores utilizadas 
 
 ![paleta de cores Image 2024-09-29 at 15 38 40](https://github.com/user-attachments/assets/b7da04bd-b5aa-449b-95ce-d7147637d6f4)
 
@@ -38,6 +38,6 @@ ________________________________________________________________________________
 
 ## Iconografia
 
-Ícones usados
+Ícones usados para permitir a interação intuitiva
 
 ![icones Image 2024-09-29 at 12 57 02](https://github.com/user-attachments/assets/560311d1-40e9-4bf1-bef0-cb59e4c2f321)
