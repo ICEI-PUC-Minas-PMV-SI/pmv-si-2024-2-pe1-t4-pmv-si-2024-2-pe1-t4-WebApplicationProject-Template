@@ -32,3 +32,9 @@ Oferecer uma visão geral das principais funcionalidades disponíveis para o usu
 DOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERI
 
 ![tela user sem login 2024-09-29 120459](https://github.com/user-attachments/assets/a0b8d0e1-8985-49b3-90a1-efe554a84d4d)
+
+#### 3. CHIMICHURRI
+
+DOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERI
+
+![user agend sem login 2024-09-29 121156](https://github.com/user-attachments/assets/fa11045d-4fe0-4d83-bc14-4350c2b03ae4)
