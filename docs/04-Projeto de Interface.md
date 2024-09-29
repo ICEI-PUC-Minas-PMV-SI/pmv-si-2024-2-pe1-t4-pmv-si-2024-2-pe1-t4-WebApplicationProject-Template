@@ -32,4 +32,3 @@ Oferecer uma visão geral das principais funcionalidades disponíveis para o usu
 DOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERI
 
 ![tela do user sem login](https://github.com/user-attachments/assets/48a104e5-5ab9-4f6a-9d1d-7e669594c8e8)
-
