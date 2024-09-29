@@ -25,6 +25,12 @@ Página inicial da plataforma
 ![tela inicial 2024-09-29 at 11 01 28](https://github.com/user-attachments/assets/a7726591-8ee0-41c1-bc3a-28fa2f79dfc8)
 
 
+### Fontes
+
+Fontes utilizadas
+
+![image](https://github.com/user-attachments/assets/8cfd9c22-988a-4196-8af1-acb8d72d540f)
+
 __________________________________________________________________________________________________________________________________________________
 
 
