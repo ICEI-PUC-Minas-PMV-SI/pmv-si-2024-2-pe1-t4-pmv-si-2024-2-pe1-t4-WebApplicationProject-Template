@@ -111,4 +111,10 @@ DOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERI
 
 ![home do usario com pop up da config 2024-09-29 135426](https://github.com/user-attachments/assets/9520529a-16b3-496a-8736-d13ca4e9518b)
 
+#### 16. CHIMICHURRI
+
+DOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERIDOVAGUERI
+
+![editar perfil 2024-09-29 141746](https://github.com/user-attachments/assets/898888a4-1bda-454c-8ae8-7700f6ffeb48)
+
 
